@@ -18,7 +18,7 @@
   .my-form {
     --primary: radial-gradient(
       #AE48FF,
-      #4925eb
+      rgb(40, 0, 216)
     );
     --primary-dark: #4228b6;
     --primary-darkest: #200f6e;
