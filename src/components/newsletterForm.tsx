@@ -55,6 +55,7 @@ const NewsletterForm = () => {
       return;
     }
 
+    console.log(data.res)
     setSuccessMessage(data.res);
     setErrorMessage("");
   };
