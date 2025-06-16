@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ![image](https://github.com/sanket95droid/newsletter/assets/77754719/dda20057-9867-4fbd-bc4a-0de35de15671)
 
+Like please...
+
